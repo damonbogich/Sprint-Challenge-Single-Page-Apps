@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client side routing gives the user a faster feeling experience and it only calls out to the server on the first load.
 
 ## Project Set Up
 
